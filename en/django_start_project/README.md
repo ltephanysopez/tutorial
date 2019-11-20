@@ -29,6 +29,7 @@ In your Mac OS X or Linux console, you should run the following command. **Don't
 
 > **Note** When typing the command above, remember that you only type the part which starts by `django-admin`.
 The `(myvenv) ~/djangogirls$` part shown here is just example of the prompt that will be inviting your input on your command line.
+> Getting an `command not found: django-admin` error? Double check you've installed Django! If you haven't, you can install it with `pip install django`.
 
 <!--endsec-->
 
